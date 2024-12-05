@@ -47,7 +47,7 @@ ICE adopts a light double-blind reviewing process.
 
 As of 2025, the chairs of the workshop are:
 
-- [Clément Aubert](https://spots.augusta.edu/caubert/)  (Augusta University, USA) - `aubert (at) math.cnrs.fr`
+- [Clément Aubert](https://spots.augusta.edu/caubert/) (Augusta University, USA) - `aubert (at) math.cnrs.fr`
 - [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, FR) - `cinzia.di-giusto (at) unice.fr`
 - [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT) - `simon.fowler (at) glasgow.ac.uk`
 - [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, NO) - `Violet.Ka.I.Pun (at) hvl.no`
@@ -69,9 +69,26 @@ As of 2025, the members of the steering committee are:
 
 
 | Year | Dates | Location | Co-location | Proceedings | Special Issue | 
-| ---  | ---   | -------- | ------      | --------    | ------ | 
-| [ICE'24](https://www.discotec.org/2024/ice) | June 21, 2024 | Groningen (NL) | [DisCoTec'24](https://www.discotec.org/2024/) | TBP | TPB | 
+| --- | --- | -------- | ------ | -------- | ------ | 
+| [ICE'24](https://www.discotec.org/2024/ice | June 21, 2024 | Groningen (NL) | [DisCoTec'24](https://www.discotec.org/2024/) | TBP | TBP |
+| [ICE'23](https://www.discotec.org/2023/ice | June 19, 2023 | Lisbon (PT) | [DisCoTec'23](https://www.discotec.org/2023/) | [EPTCS (vol. 383)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023) | TBP |
+| [ICE'22](https://www.discotec.org/2022/ice | June 17, 2022 | Lucca (IT) | [DisCoTec'22](https://www.discotec.org/2022/) | [EPTCS (vol. 365)](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022) | [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10NR188XZQV) |
+| [ICE'21](http://www.discotec.org/2021/ice | June 18, 2020, online event [DisCoTec'21](https://www.discotec.org/2021/) | [EPTCS (vol. 347)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2021) | [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/106L7VVC5FC) |
+| [ICE'20](http://www.discotec.org/2020/ice | June 19, 2020, online event [DisCoTec'20](https://www.discotec.org/2020/) | [EPTCS (vol. 324)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2020) | [JLAMP (1)](https://doi.org/10.1016/j.jlamp.2021.100712) and [JLAMP (2)](https://doi.org/10.1016/j.jlamp.2022.100776)) | 
+| [ICE'19](http://www.discotec.org/2019/ice | June 20-21, 2019 | Lyngby (DK) | [DisCoTec'19](https://www.discotec.org/2019/) | [EPTCS (vol. 304)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2019) | [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/101ZSK6ZFQ4) | 
+| [ICE'18](http://2018.discotec.org/cfp_w_ice.html | June 20-21, 2018 | Madrid (ES) | DisCoTec'18| [EPTCS (vol. 279)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2018) | [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10XN45J051V) | 
+| [ICE'17](https://2017.discotec.org/workshops/ice-2017.html | June 21-22 2017 | Neuchâtel (CH) | DisCoTec'17| [EPTCS (vol. 261)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2017) | [JLAMP (Vol. 109)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/109) |
+| [ICE'16](https://web.archive.org/web/20220331031727/http://2016.discotec.org/index713e.html | June 21-22, 2016 | Heraklion (GR) | DisCoTec'16| [EPTCS (vol. 223)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2016) | [JLAMP (Vol. 92)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/92) | 
+| [ICE'15](https://discotec2015.inria.fr/workshops/ice-2015/ | June 4-5, 2015 | Grenoble (FR) | DisCoTec'15| [EPTCS (vol. 189)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2015) | [JLAMP (Vol. 86, Number 1)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/86) | 
+| [ICE'14](http://www.discotec2014.tu-berlin.de/workshops/ice-2014 | June 6, 2014 | Berlin (DE) | DisCoTec'14| [EPTCS (vol. 166)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2014) | [JLAMP (Vol. 85, Number 3)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/86/issue/3) | 
+| [ICE'13](https://web.archive.org/web/20160423143634/2013.discotec.org/workshops/ice2013/ | June 6, 2013 | Florence (IT) | DisCoTec'13 | [EPTCS (vol. 131)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2013) [SCP (vol. 109)](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/109) | 
+| [ICE'12](http://www.artist-embedded.org/artist/Overview,2429.html | June 16, 2012 | Stockholm (SE) | DisCoTec'12 | [EPTCS (vol. 104)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2012) [SCP (vol. 100)](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/100) | 
+| [ICE'11](http://www.artist-embedded.org/artist/-ICE-2011-.html | June 9, 2011 | Reykjavik(IS) | DisCoTec'11 | [EPTCS (vol. 59)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2011) [SACS (Vol. XXII)](https://www.info.uaic.ro/en/sacs_volumes/xxii-1/) | 
+| [ICE'10](http://www.artist-embedded.org/artist/-ICE-10-.html) June 10, 2010 | Amsterdam (NL) | DisCoTec'10 | [EPTCS (vol. 38)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2011) | [SACS (with CAMPUS'10 and CS2BIO'10, Vol. XXI)](https://www.info.uaic.ro/en/sacs_volumes/xxi-1/) | 
+| [ICE'09](http://ice09.dimi.uniud.it/) August 31, 2009 | Bologna (IT) | CONCUR'09 | [EPTCS (vol. 12)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2009) |[MSCS (with EXPRESS'09 and SOS'09, Vol. 22, Number 2)](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/4A7319C7211730C6521DB797E0B53668) | 
+| [ICE'08](http://ice08.dimi.uniud.it/ | July 6, 2008 | Reykjavik(IS) | ICALP'08 | [ENTCS (vol. 229-3)](https://dl.acm.org/toc/entcs/2009/229/3) | | 
 
+<!--
 The previous editions of ICE have been held on:
 
 - [ICE'24](https://www.discotec.org/2024/ice), June 21, 2024 in Groningen, The Netherlands, co-located with [DisCoTec'24](https://www.discotec.org/2024/). The post-proceedings will be published soon, and selected papers will appear in a speciale issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/).
@@ -91,7 +108,7 @@ The previous editions of ICE have been held on:
 - [ICE'10](http://www.artist-embedded.org/artist/-ICE-10-.html) June 10, 2010 in Amsterdam, The Netherlands, co-located with DisCoTec'10. The post-proceedings were published in [EPTCS (vol. 38)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2011) and selected papers appeared in a joint special issue of [SACS (with CAMPUS'10 and CS2BIO'10, Vol. XXI)](https://www.info.uaic.ro/en/sacs_volumes/xxi-1/).
 - [ICE'09](http://ice09.dimi.uniud.it/) August 31, 2009 in Bologna, Italy, co-located with CONCUR'09. The post-proceedings were published in [EPTCS (vol. 12)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2009) and selected papers appeared in a joint special issue of [MSCS (with EXPRESS'09 and SOS'09, Vol. 22, Number 2)](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/4A7319C7211730C6521DB797E0B53668).
 - [ICE'08](http://ice08.dimi.uniud.it/), July 6, 2008 in Reykjavik, Iceland, co-located with ICALP'08. The post-proceedings were published in [ENTCS (vol. 229-3)](https://dl.acm.org/toc/entcs/2009/229/3).
-
+-->
 
 ## More Information
 
