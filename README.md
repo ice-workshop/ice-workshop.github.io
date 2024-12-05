@@ -62,8 +62,8 @@ As of 2025, the members of the steering committee are:
 - [Ludovic Henrio](https://lhenrio.github.io/) (ENS Lyon, FR)
 - [Sophia Knight](https://www.lix.polytechnique.fr/~sophia/) (University of Minnesota Duluth, USA)
 - [Ivan Lanese](https://www.cs.unibo.it/~lanese/) (University of Bologna, IT)
-- [Alceste Scalas](https://people.compute.dtu.dk/alcsc) (Technical University of Denmark, DK)
 - [Larisa Safina](https://lsafina.github.io/) (INRIA Lille, FR)
+- [Alceste Scalas](https://people.compute.dtu.dk/alcsc) (Technical University of Denmark, DK)
 
 ## Previous Editions
 
