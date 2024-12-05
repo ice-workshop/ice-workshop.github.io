@@ -2,7 +2,7 @@
 
 Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
 
-ICE is since 2010 a satellite workshop of [DisCoTec](https://www.discotec.org/), generally held in June in Europe
+ICE is since 2010 a satellite workshop of [DisCoTec](https://www.discotec.org/), generally held in June in Europe.
 
 ## Highlights
 
@@ -10,8 +10,9 @@ ICE is since 2010 a satellite workshop of [DisCoTec](https://www.discotec.org/),
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
 - Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/)
-- Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
+- Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier)
 - Contact: `ice (at) framalistes.org`
+
 
 ## Scope
 
@@ -44,6 +45,8 @@ ICE adopts a light double-blind reviewing process.
 
 ## ICEcreamers (Chairs)
 
+As of 2025, the chairs of the workshop are:
+
 - [Clément Aubert](https://spots.augusta.edu/caubert/)  (Augusta University, USA) - `aubert (at) math.cnrs.fr`
 - [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, FR) - `cinzia.di-giusto (at) unice.fr`
 - [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT) - `simon.fowler (at) glasgow.ac.uk`
@@ -53,19 +56,25 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Steering Committee
 
+As of 2025, the members of the steering committee are:
+
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (University of Cagliari, IT)
 - [Ludovic Henrio](https://lhenrio.github.io/) (ENS Lyon, FR)
 - [Sophia Knight](https://www.lix.polytechnique.fr/~sophia/) (University of Minnesota Duluth, USA)
 - [Ivan Lanese](https://www.cs.unibo.it/~lanese/) (University of Bologna, IT)
-- [Alceste Scalas](https://www.imm.dtu.dk/~alcsc/) (Technical University of Denmark, DK)
-- [Hugo Torres Vieira](https://scholar.google.com/citations?user=Y5yb7XEAAAAJ&hl=en) (Evidence Srl, IT)
-
+- [Alceste Scalas](https://people.compute.dtu.dk/alcsc) (Technical University of Denmark, DK)
+- [Larisa Safina](https://lsafina.github.io/) (INRIA Lille, FR)
 
 ## Previous Editions
 
+
+| Year | Dates | Location | Co-location | Proceedings | Special Issue | 
+| ---  | ---   | -------- | ------      | --------    | ------ | 
+| [ICE'24](https://www.discotec.org/2024/ice) | June 21, 2024 | Groningen (NL) | [DisCoTec'24](https://www.discotec.org/2024/) | TBP | TPB | 
+
 The previous editions of ICE have been held on:
 
-- [ICE'24](https://www.discotec.org/2024/ice), June 21, 2024 in Groningen, The Netherlands, co-located with [DisCoTec'24](https://www.discotec.org/2024/). The post-proceedings will be published soon, and selected papers will appar in a speciale issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/).
+- [ICE'24](https://www.discotec.org/2024/ice), June 21, 2024 in Groningen, The Netherlands, co-located with [DisCoTec'24](https://www.discotec.org/2024/). The post-proceedings will be published soon, and selected papers will appear in a speciale issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/).
 - [ICE'23](https://www.discotec.org/2023/ice), June 19, 2023 in Lisbon, Portugal, co-located with [DisCoTec'23](https://www.discotec.org/2023/). The post-proceedings were published in [EPTCS (vol. 383)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023) and selected papers will appear in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/).
 - [ICE'22](https://www.discotec.org/2022/ice), June 17, 2022 in Lucca, Italy, co-located with [DisCoTec'22](https://www.discotec.org/2022/). The post-proceedings were published in [EPTCS (vol. 365)](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022) and selected papers appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10NR188XZQV).
 - [ICE'21](http://www.discotec.org/2021/ice), June 18, 2020, online event co-located with [DisCoTec'21](https://www.discotec.org/2021/). The post-proceedings were published in [EPTCS (vol. 347)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2021) and selected papers appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/106L7VVC5FC).
