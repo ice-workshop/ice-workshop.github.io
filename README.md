@@ -49,7 +49,7 @@ As of 2025, the chairs of the workshop are:
 
 - [Clément Aubert](https://spots.augusta.edu/caubert/) (Augusta University, USA) - `aubert (at) math.cnrs.fr`
 - [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, FR) - `cinzia.di-giusto (at) unice.fr`
-- [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT) - `simon.fowler (at) glasgow.ac.uk`
+- [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, UK) - `simon.fowler (at) glasgow.ac.uk`
 - [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, NO) - `Violet.Ka.I.Pun (at) hvl.no`
 
 Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
