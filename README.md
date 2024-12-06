@@ -4,7 +4,7 @@ Interaction and Concurrency Experiences (ICE) is a series of international scien
 
 ICE is [since 2010](#previous-editions) a satellite workshop of [DisCoTec](https://www.discotec.org/), generally held in June in Europe.
 
-## Highlights
+## 📢 Highlights {#highlights}
 
 - Distinctive selection procedure
 - ICE welcomes full papers to be included in the proceedings
@@ -14,7 +14,7 @@ ICE is [since 2010](#previous-editions) a satellite workshop of [DisCoTec](https
 - Contact: `ice (at) framalistes.org`
 
 
-## Scope
+## 📌 Scope {#scope}
 
 The general scope of the venue includes theoretical and applied aspects of interactions and the synchronization mechanisms used among components of concurrent/distributed systems, related to several areas of computer science in the broad spectrum ranging from formal specification and analysis to studies inspired by emerging computational models.
 
@@ -33,7 +33,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Tools and techniques for automation
 - Synthesis techniques
 
-## The ICE Selection Procedure
+## 🌱 The ICE Selection Procedure {#selection}
 
 Since [its first edition in 2008](#previous-editions), the distinguishing feature of ICE has been an innovative paper selection mechanism based on an interactive, friendly, and constructive discussion amongst authors and PC members in an online forum.
 
@@ -43,9 +43,9 @@ As witnessed by the past editions of ICE, this procedure considerably improves t
 
 ICE adopts a light double-blind reviewing process.
 
-## 🌟 ICE Outstanding PC Members 🌟 {#outstanding}
+## 🌟 ICE Outstanding PC Members {#outstanding}
 
-Since 2021, the [ICEcreamers](#icecreamers-chairs) select every year a PC member to receive the **Outstanding PC Member Award** in recognition of their efforts and time spent contributing to the quality of the papers they were asked to review, or that they voluntarily reviewed.
+Since 2021, the [ICEcreamers](#icecreamers) select every year a PC member to receive the **Outstanding PC Member Award** in recognition of their efforts and time spent contributing to the quality of the papers they were asked to review, or that they voluntarily reviewed.
 
 | Edition | Awardee |
 | ------- | ------- | 
@@ -54,7 +54,7 @@ Since 2021, the [ICEcreamers](#icecreamers-chairs) select every year a PC member
 | 2022 | [Duncan Paul Attard](https://duncanatt.github.io/) |
 | 2021 | [Ivan Prokić](https://imft.ftn.uns.ac.rs/~iprokic/Main) |
 
-## 🍦 ICEcreamers (Chairs) 🍦
+## 🍦 ICEcreamers (Chairs) {#icecreamers}
 
 As of 2025, the chairs of the workshop are:
 
@@ -65,7 +65,7 @@ As of 2025, the chairs of the workshop are:
 
 Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
-## Steering Committee
+## ✇ Steering Committee {#sc}
 
 As of 2025, the members of the steering committee are:
 
@@ -76,7 +76,7 @@ As of 2025, the members of the steering committee are:
 - [Larisa Safina](https://lsafina.github.io/) (INRIA Lille, FR)
 - [Alceste Scalas](https://people.compute.dtu.dk/alcsc) (Technical University of Denmark, DK)
 
-## Previous Editions
+## ⌛ Previous Editions {#previous-editions}
 
 *[TBP]: To Be Published
 *[TBC]: To Be Confirmed
@@ -123,6 +123,6 @@ The previous editions of ICE have been held on:
 - [ICE'08](http://ice08.dimi.uniud.it/), July 6, 2008 in Reykjavik, Iceland, co-located with ICALP'08. The post-proceedings were published in [ENTCS (vol. 229-3)](https://dl.acm.org/toc/entcs/2009/229/3).
 -->
 
-## More Information
+## 👤 More Information {#contact}
 
 For additional information, please [contact the ICEcreamers](#icecreamers) at `ice (at) framalistes.org`.
