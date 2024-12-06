@@ -2,7 +2,7 @@
 
 Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
 
-ICE is since 2010 a satellite workshop of [DisCoTec](https://www.discotec.org/), generally held in June in Europe.
+ICE is [since 2010](#previous-editions) a satellite workshop of [DisCoTec](https://www.discotec.org/), generally held in June in Europe.
 
 ## Highlights
 
@@ -67,11 +67,13 @@ As of 2025, the members of the steering committee are:
 
 ## Previous Editions
 
+*[TBP]: To Be Published
+*[TBC]: To Be Confirmed
 
 | Year | Date(s) | Location | Co-location | Proceedings | Special Issue | 
 | --- | --- | -------- | ------ | -------- | ------ | 
-| [ICE'24](https://www.discotec.org/2024/ice) | June 21, 2024 | Groningen (NL) | [DisCoTec'24](https://www.discotec.org/2024/) | TBP | TBP |
-| [ICE'23](https://www.discotec.org/2023/ice) | June 19, 2023 | Lisbon (PT) | [DisCoTec'23](https://www.discotec.org/2023/) | [EPTCS (vol. 383)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023) | TBP |
+| [ICE'24](https://www.discotec.org/2024/ice) | June 21, 2024 | Groningen (NL) | [DisCoTec'24](https://www.discotec.org/2024/) | TBP | TBC |
+| [ICE'23](https://www.discotec.org/2023/ice) | June 19, 2023 | Lisbon (PT) | [DisCoTec'23](https://www.discotec.org/2023/) | [EPTCS (vol. 383)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023) | TBC |
 | [ICE'22](https://www.discotec.org/2022/ice) | June 17, 2022 | Lucca (IT) | [DisCoTec'22](https://www.discotec.org/2022/) | [EPTCS (vol. 365)](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022) | [JLAMP (10NR188XZQV)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10NR188XZQV) |
 | [ICE'21](http://www.discotec.org/2021/ice) | June 18, 2020 | Online | [DisCoTec'21](https://www.discotec.org/2021/) | [EPTCS (vol. 347)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2021) | [JLAMP (106L7VVC5FC)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/106L7VVC5FC) |
 | [ICE'20](http://www.discotec.org/2020/ice) | June 19, 2020 | Online | [DisCoTec'20](https://www.discotec.org/2020/) | [EPTCS (vol. 324)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2020) | [JLAMP (1)](https://doi.org/10.1016/j.jlamp.2021.100712) and [JLAMP (2)](https://doi.org/10.1016/j.jlamp.2022.100776) | 
