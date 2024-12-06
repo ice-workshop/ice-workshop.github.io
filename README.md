@@ -43,6 +43,17 @@ As witnessed by the past editions of ICE, this procedure considerably improves t
 
 ICE adopts a light double-blind reviewing process.
 
+## 🌟 ICE Outstanding PC Members 🌟
+
+Since 2021, the [ICEcreamers](#icecreamers-chairs) select every year a PC member to receive the **Outstanding PC Member Award** in recognition of their efforts and time spent contributing to the quality of the papers they were asked to review, or that they voluntarily reviewed.
+
+| Edition | Awardee |
+| ------- | ------- | 
+| 2024 | [Bas van den Heuvel](https://basvdheuvel.github.io/) | 
+| 2023 | [Sergueï Lenglet](https://lipn.univ-paris13.fr/~lenglet/) | 
+| 2022 | [Duncan Paul Attard](https://duncanatt.github.io/) |
+| 2021 | [Ivan Prokić](https://imft.ftn.uns.ac.rs/~iprokic/Main) |
+
 ## ICEcreamers (Chairs)
 
 As of 2025, the chairs of the workshop are:
