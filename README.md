@@ -6,12 +6,14 @@ ICE is [since 2010](#previous-editions) a satellite workshop of [DisCoTec](https
 
 ## 📢 Highlights {#highlights}
 
-- Distinctive selection procedure
+- [Distinctive selection procedure](#selection)
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
-- Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/)
+- Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/) -- an [open access](https://www.budapestopenaccessinitiative.org/) venue.
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier)
 - Contact: `ice (at) framalistes.org`
+
+Past proceedings can easily be accessed [through DBLP](https://dblp.uni-trier.de/db/conf/ice/index.html) or by consulting our [previous editions](#previous-editions).
 
 
 ## 📌 Scope {#scope}
@@ -37,11 +39,9 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 Since [its first edition in 2008](#previous-editions), the distinguishing feature of ICE has been an innovative paper selection mechanism based on an interactive, friendly, and constructive discussion amongst authors and PC members in an online forum.
 
-During the review phase, each submission is published in a dedicated discussion forum. The discussion forum can be accessed by the authors of the submission and by all PC members not in conflict with the submission (the forum preserves anonymity). The forum is used by reviewers to ask questions, clarifications, and modifications from the authors, allowing them better to explain and to improve all aspects of their submission. The evaluation of the submission will take into account not only the reviews, but also the outcome of the discussion.
+During the review phase, each submission is published in a dedicated discussion forum. The discussion forum can be accessed by the authors of the submission and by all PC members not in conflict with the submission (the forum preserves anonymity of all parties -- ICE adopts a light double-blind reviewing process). The forum is used by reviewers to ask questions, clarifications, and modifications from the authors, allowing them better to explain and to improve all aspects of their submission. The evaluation of the submission will take into account not only the reviews, but also the outcome of the discussion.
 
 As witnessed by the past editions of ICE, this procedure considerably improves the accuracy of the reviews, the fairness of the selection, the quality of camera-ready papers, and the discussion during the workshop.
-
-ICE adopts a light double-blind reviewing process.
 
 ## 🌟 ICE Outstanding PC Members {#outstanding}
 
@@ -95,8 +95,8 @@ As of 2025, the members of the steering committee are:
 | [ICE'15](https://discotec2015.inria.fr/workshops/ice-2015/) | June 4-5, 2015 | Grenoble (FR) | [DisCoTec'15](https://discotec2015.inria.fr/) | [EPTCS (vol. 189)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2015) | [JLAMP (Vol. 86, Number 1)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/86) | 
 | [ICE'14](http://www.discotec2014.tu-berlin.de/workshops/ice-2014) | June 6, 2014 | Berlin (DE) | [DisCoTec'14](https://www.discotec2014.tu-berlin.de/) | [EPTCS (vol. 166)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2014) | [JLAMP (Vol. 85, Number 3)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/86/issue/3) | 
 | [ICE'13](https://web.archive.org/web/20160423143634/2013.discotec.org/workshops/ice2013/) | June 6, 2013 | Florence (IT) | [DisCoTec'13](https://web.archive.org/web/20130525064342/http://www.discotec.org/) | [EPTCS (vol. 131)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2013) | [SCP (vol. 109)](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/109) | 
-| [ICE'12](http://www.artist-embedded.org/artist/Overview,2429.html) | June 16, 2012 | Stockholm (SE) | DisCoTec'12 | [EPTCS (vol. 104)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2012) | [SCP (vol. 100)](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/100) | 
-| [ICE'11](http://www.artist-embedded.org/artist/-ICE-2011-.html) | June 9, 2011 | Reykjavik (IS) | [DisCoTec'11](http://discotec.ru.is/) | [EPTCS (vol. 59)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2011) [SACS (Vol. XXII)](https://www.info.uaic.ro/en/sacs_volumes/xxii-1/) | 
+| [ICE'12](http://www.artist-embedded.org/artist/Overview,2429.html) | June 16, 2012 | Stockholm (SE) | [DisCoTec'12](https://web.archive.org/web/20130624080252/http://discotec.ict.kth.se/) | [EPTCS (vol. 104)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2012) | [SCP (vol. 100)](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/100) | 
+| [ICE'11](http://www.artist-embedded.org/artist/-ICE-2011-.html) | June 9, 2011 | Reykjavik (IS) | [DisCoTec'11](https://web.archive.org/web/20130310124652/http://discotec.ru.is/) | [EPTCS (vol. 59)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2011) [SACS (Vol. XXII)](https://www.info.uaic.ro/en/sacs_volumes/xxii-1/) | 
 | [ICE'10](http://www.artist-embedded.org/artist/-ICE-10-.html) | June 10, 2010 | Amsterdam (NL) | [DisCoTec'10](http://web.archive.org/web/20100806052340/http://discotec.project.cwi.nl/index.php/Main_Page) | [EPTCS (vol. 38)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2011) | [SACS (with CAMPUS'10 and CS2BIO'10, Vol. XXI)](https://www.info.uaic.ro/en/sacs_volumes/xxi-1/) | 
 | [ICE'09](http://ice09.dimi.uniud.it/) | August 31, 2009 | Bologna (IT) | [CONCUR'09](http://concur09.cs.unibo.it/) | [EPTCS (vol. 12)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2009) |[MSCS (with EXPRESS'09 and SOS'09, Vol. 22, Number 2)](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/issue/4A7319C7211730C6521DB797E0B53668) | 
 | [ICE'08](http://ice08.dimi.uniud.it/) | July 6, 2008 | Reykjavik (IS) | [ICALP'08](https://web.archive.org/web/20090210183154/https://www.ru.is/icalp08) | [ENTCS (vol. 229-3)](https://dl.acm.org/toc/entcs/2009/229/3) | | 
