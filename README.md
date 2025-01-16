@@ -6,12 +6,10 @@ ICE is [since 2010](#previous-editions) a satellite workshop of [DisCoTec](https
 
 ## 📢 Highlights {#highlights}
 
-- [Distinctive selection procedure](#selection)
-- ICE welcomes full papers to be included in the proceedings
-- ICE also welcomes oral communications of already published or preliminary work
-- Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/) -- an [open access](https://www.budapestopenaccessinitiative.org/) venue.
-- Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier)
-- Contact: `ice (at) framalistes.org`
+- [Distinctive selection procedure](#selection).
+- ICE publishes full papers in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/) -- an [open access](https://www.budapestopenaccessinitiative.org/) venue, but also welcomes oral communications of already published or preliminary work.
+- ICE generally publishes extended versions of selected articles in a special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier).
+- ICE strives to maintain a diverse and balanced program committee, and is in general chaired by 4 ["ICECreamers"](#icecreamers) with different backgrounds, geographical locations and interests.
 
 Past proceedings can easily be accessed [through DBLP](https://dblp.uni-trier.de/db/conf/ice/index.html) or by consulting our [previous editions](#previous-editions).
 
