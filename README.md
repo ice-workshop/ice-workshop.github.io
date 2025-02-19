@@ -13,7 +13,6 @@ ICE is [since 2010](#previous-editions) a satellite workshop of [DisCoTec](https
 
 Past proceedings can easily be accessed [through DBLP](https://dblp.uni-trier.de/db/conf/ice/index.html) or by consulting our [previous editions](#previous-editions).
 
-
 ## 📌 Scope {#scope}
 
 The general scope of the venue includes theoretical and applied aspects of interactions and the synchronization mechanisms used among components of concurrent/distributed systems, related to several areas of computer science in the broad spectrum ranging from formal specification and analysis to studies inspired by emerging computational models.
