@@ -1,4 +1,25 @@
 # Interaction and Concurrency Experience (ICE) Workshop
+
+Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
+
+ICE is [since 2010](#previous-editions) a satellite workshop of [DisCoTec](https://www.discotec.org/), generally held in June in Europe.
+ICE 2025 is a satellite workshop of [DisCoTec 2025](https://www.discotec.org/2025/), held on June 20th in [Lille, France](venue).
+
+## 📢 Highlights {#highlights}
+
+- [Distinctive selection procedure](#selection).
+- ICE publishes [its proceedings](https://dblp.uni-trier.de/db/conf/ice/index.html) in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/)−an [open access](https://www.budapestopenaccessinitiative.org/) venue−and welcomes oral communications of already published or preliminary work.
+- ICE generally publishes extended versions of selected articles in a special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming).
+- ICE strives to maintain a diverse and balanced program committee, and is in general chaired by 4 ["ICECreamers"](#icecreamers) with different backgrounds, geographical locations and interests.
+
+Past proceedings can easily be accessed [through DBLP](https://dblp.uni-trier.de/db/conf/ice/index.html) or by consulting our [previous editions](#previous-editions).
+
+## 📌 Scope {#scope}
+
+The general scope of the venue includes theoretical and applied aspects of interactions and the synchronization mechanisms used among components of concurrent/distributed systems, related to several areas of computer science in the broad spectrum ranging from formal specification and analysis to studies inspired by emerging computational models.
+
+ICE has featured contributions on Interaction and Concurrency, including but not limited to:
+
 - Formal semantics
 - Process algebras and calculi
 - Models and languages
@@ -94,4 +115,3 @@ As of 2025, the members of the steering committee are:
 | [ICE'15](https://discotec2015.inria.fr/workshops/ice-2015/) | June 4-5, 2015 | Grenoble, 🇫🇷 | [DisCoTec'15](https://discotec2015.inria.fr/) | [EPTCS (vol. 189)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2015) | [JLAMP (Vol. 86, Number 1)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/86) | 
 | [ICE'14](http://www.discotec2014.tu-berlin.de/workshops/ice-2014) | June 6, 2014 | Berlin, 🇩🇪 | [DisCoTec'14](https://www.discotec2014.tu-berlin.de/) | [EPTCS (vol. 166)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2014) | [JLAMP (Vol. 85, Number 3)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/86/issue/3) | 
 | [ICE'13](https://web.archive.org/web/20160423143634/2013.discotec.org/workshops/ice2013/) | June 6, 2013 | Florence, 🇮🇹 | [DisCoTec'13](https://web.archive.org/web/20130525064342/http://www.discotec.org/) | [EPTCS (vol. 131)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2013) | [SCP (vol. 109)](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/109) | 
-
