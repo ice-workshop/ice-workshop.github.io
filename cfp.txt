@@ -21,7 +21,7 @@ and programming primitives for complex interactions.
     * ICE also welcomes oral communications of already published or
       preliminary work
     * Invited speaker: Kirstin Peters
-    * Publication in EPTCS
+    * Publication in EPTCS (to be confirmed)
     * Special issue in the Journal of Logical and Algebraic Methods in
       Programming (Elsevier) (to be confirmed)
 
