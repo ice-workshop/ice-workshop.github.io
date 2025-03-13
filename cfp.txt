@@ -152,7 +152,7 @@ is reported on the ICE website.
 
 === INVITED SPEAKER ===
 
-Kirstin Peters (Augsburg University, Germany) --  On the Expressiveness of MPST
+Kirstin Peters (Augsburg University, 🇩🇪) --  On the Expressiveness of MPST
 
 Multiparty session types (MPST) are a type discipline for enforcing the
 structured, deadlock-free communication of concurrent and message-passing
@@ -224,3 +224,4 @@ or visit our series website
 or the 2025 ICE website
 
     https://www.discotec.org/2025/satellite/ice
+
