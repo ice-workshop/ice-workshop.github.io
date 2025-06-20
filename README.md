@@ -46,7 +46,8 @@ As witnessed by the past editions of ICE, this procedure considerably improves t
 Since 2021, the [ICEcreamers](#icecreamers) select every year a PC member to receive the **Outstanding PC Member Award** in recognition of their efforts and time spent contributing to the quality of the papers they were asked to review, or that they voluntarily reviewed.
 
 | Edition | Awardee |
-| ------- | ------- | 
+| ------- | ------- |
+| 2025 | [Luc Edixhoven](https://luc.edixhoven.eu/) |
 | 2024 | [Bas van den Heuvel](https://basvdheuvel.github.io/) | 
 | 2023 | [Sergueï Lenglet](https://lipn.univ-paris13.fr/~lenglet/) | 
 | 2022 | [Duncan Paul Attard](https://duncanatt.github.io/) |
