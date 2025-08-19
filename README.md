@@ -80,7 +80,7 @@ As of 2025, the members of the steering committee are:
 
 | Year | Date(s) | Location | Co-location | Proceedings | Special Issue | 
 | --- | --- | -------- | ------ | -------- | ------ | 
-| [ICE'25](https://www.discotec.org/2025/satellite/ice) | June 16 or 20, 2025 | Lille (FR) | [DisCoTec'25](https://www.discotec.org/2025/) | TBC | TBC |
+| [ICE'25](https://www.discotec.org/2025/satellite/ice) | June 16 or 20, 2025 | Lille (FR) | [DisCoTec'25](https://www.discotec.org/2025/) | [EPTCS (vol. 425)(https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2025)] | TBC |
 | [ICE'24](https://www.discotec.org/2024/ice) | June 21, 2024 | Groningen (NL) | [DisCoTec'24](https://www.discotec.org/2024/) | [EPTCS (vol. 414)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2024) | TBC |
 | [ICE'23](https://www.discotec.org/2023/ice) | June 19, 2023 | Lisbon (PT) | [DisCoTec'23](https://www.discotec.org/2023/) | [EPTCS (vol. 383)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023) | TBC |
 | [ICE'22](https://www.discotec.org/2022/ice) | June 17, 2022 | Lucca (IT) | [DisCoTec'22](https://www.discotec.org/2022/) | [EPTCS (vol. 365)](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022) | [JLAMP (10NR188XZQV)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10NR188XZQV) |
