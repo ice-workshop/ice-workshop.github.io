@@ -1,6 +1,7 @@
 {% comment %}
 {% Taken from https://github.com/pages-themes/primer/blob/master/_layouts/default.html %}
 {% Doc on how to customize this further: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-html-layout %}
+{% Emoticon as favicon comes from https://css-tricks.com/emoji-as-a-favicon/ . %}
 {% endcomment %}
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
@@ -11,6 +12,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧊</text></svg>">
     {% include head-custom.html %}
   </head>
   <body>
