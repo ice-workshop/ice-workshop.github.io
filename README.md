@@ -3,7 +3,7 @@
 Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
 
 ICE is [since 2010](#previous-editions) a satellite workshop of [DisCoTec](https://www.discotec.org/), generally held in June in Europe.
-ICE 2025 is a satellite workshop of [DisCoTec 2025](https://www.discotec.org/2025/), held on June 20th in [Lille, France](venue).
+ICE 2026 is a satellite workshop of [DisCoTec 2026](https://www.discotec.org/2026/), held on June TBD in [Urbino, Italy](https://www.discotec.org/2026/venue).
 
 ## 📢 Highlights {#highlights}
 
@@ -77,18 +77,18 @@ https://en.wikipedia.org/wiki/Regional_indicator_symbol
 *[🇸🇪]: Sweden
 *[🇮🇸]: Iceland
 
-As of 2025, the chairs of the workshop are:
+As of 2026, the chairs of the workshop are:
 
-- [Clément Aubert](https://spots.augusta.edu/caubert/) (Augusta University, 🇺🇸) - `aubert (at) math.cnrs.fr`
-- [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, 🇫🇷) - `cinzia.di-giusto (at) unice.fr`
+- [Luc Edixhoven](https://luc.edixhoven.eu) (Leiden University, 🇳🇱) - `luc (at) edixhoven.eu`
 - [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, 🇬🇧) - `simon.fowler (at) glasgow.ac.uk`
+- [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova) (Brunel University London, 🇬🇧) - `rumyana.neykova (at) brunel.ac.uk`
 - [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, 🇳🇴) - `Violet.Ka.I.Pun (at) hvl.no`
 
 Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## ✇ Steering Committee {#sc}
 
-As of 2025, the members of the steering committee are:
+As of 2026, the members of the steering committee are:
 
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (University of Cagliari, 🇮🇹)
 - [Ludovic Henrio](https://lhenrio.github.io/) (ENS Lyon, 🇫🇷)
