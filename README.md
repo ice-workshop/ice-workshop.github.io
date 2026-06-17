@@ -47,6 +47,7 @@ Since 2021, the [ICEcreamers](#icecreamers) select every year a PC member to rec
 
 | Edition | Awardee |
 | ------- | ------- |
+| 2026 | [Christopher Esterhuyse](https://sirkibsirkib.github.io/) |
 | 2025 | [Luc Edixhoven](https://luc.edixhoven.eu/) |
 | 2024 | [Bas van den Heuvel](https://basvdheuvel.github.io/) | 
 | 2023 | [Sergueï Lenglet](https://lipn.univ-paris13.fr/~lenglet/) | 
